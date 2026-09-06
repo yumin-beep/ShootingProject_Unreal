@@ -8,8 +8,8 @@ Unreal Engine의 Blueprint와 입력 기능을 익히기 위해 만든 학습용
 
 ## 연습한 내용
 
-- `BP_Player`를 만들고 캐릭터 이동 입력을 연결했음.
-- 가로와 세로 입력 액션을 나눠 설정했음.
+- `BP_Player`를 만들고 Blueprint에서 캐릭터 이동을 연결했음.
+- Enhanced Input의 가로·세로 입력 액션과 Mapping Context를 나눠 설정했음.
 - `MainMap`과 기본 게임 모드를 구성했음.
 - Starter Content를 이용해 기본 씬을 확인했음.
 
